@@ -1,6 +1,8 @@
 Java Program to implement both features
+
 Prerequisite:
 Jdk1.8
+
 How to run ?
 make sure you are in same directory as run.sh script, since the script first naigate to folder which is src,child folder of run.sh's folder
 Replace tweets.txt file with your tweets file inside folde tweet_input. Please rename your file to tweets.txt, since this is the name used inside program.
